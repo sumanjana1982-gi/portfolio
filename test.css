@@ -1,0 +1,21 @@
+
+     
+
+/* Custom styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins, sans-serif ;
+}
+html{
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+}
+body{
+  width: 100%;
+  height: 100vh;
+  background: black;
+  overflow-x: hidden;
+  color: wheat;
+}
